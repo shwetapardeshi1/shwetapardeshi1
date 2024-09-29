@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 Hello, and welcome to my GitHub profile! I am a dedicated ML Engineer with a passion for building innovative solutions that leverage the latest machine learning technologies. In my professional career, I have worked on a wide range of projects, from designing and implementing microservices to building ML pipelines and exploring data sets. I have also developed expertise in deploying solutions using Docker and Kubernetes, ensuring that my projects are always scalable, efficient, and easy to manage. At heart, I am a true data enthusiast, and I love developing and implementing ML algorithms that deliver measurable results. Whether I am exploring new techniques or optimizing existing solutions, I am always looking for ways to push the boundaries of what is possible in the world of machine learning. I am excited to share my work and collaborate with other developers on GitHub. So, if you're interested in connecting or have any questions about my projects, please don't hesitate to reach out. Let's build something amazing together!
 
-* 🌍  I'm based in Gujarat, India
+* 🌍  I'm based in San Diego, California.
 * 🖥️  See my portfolio at [here](http://shwetapardeshi1.github.io)
 * ✉️  You can contact me at [shwetapardeshi126@gmail.com](mailto:shwetapardeshi126@gmail.com)
 * 🤝  I'm open to collaborating on Machine learning and Data Science projects.
